@@ -28,4 +28,10 @@ And make sure to have the time set.
   t.tm_min = 4;
   t.tm_sec = 8;
 
-  This translates to: 20:04:08 11/5/2017
+This translates to: 20:04:08 11/5/2017
+
+Compile the program using these parameters: g++ sniper.cpp -o xd -l curl -std=c++11 `pkg-config --cflags --libs gumbo`
+
+# What to do:
+
+- Add multithreading
