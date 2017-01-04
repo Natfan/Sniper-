@@ -34,4 +34,4 @@ Compile the program using these parameters: g++ sniper.cpp -o xd -l curl -std=c+
 
 # What to do:
 
-- Add multithreading
+- Add multithreading therefore fire multiple requests
