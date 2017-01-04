@@ -11,6 +11,8 @@
 
 #define MAX_THREADS 4
 
+// CREDITS TO DOGGIEKUK <-- best cod3r xddddddd & OMAR H FOR HELPING <3
+
 // g++ sniper.cpp -o xd -l curl -std=c++11 `pkg-config --cflags --libs gumbo`
 //
 using namespace std;
